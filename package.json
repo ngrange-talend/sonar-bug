@@ -1,0 +1,27 @@
+{
+  "name": "sonar-bug",
+  "version": "1.0.0",
+  "description": "sonar-bug repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngrange-talend/sonar-bug.git"
+  },
+  "author": "Talend Frontend <frontend@talend.com> (http://www.talend.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngrange-talend/sonar-bug/issues"
+  },
+  "homepage": "https://github.com/ngrange-talend/sonar-bug#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "dependencies": {
+    "sonar-scanner": "^3.1.0"
+  }
+}
