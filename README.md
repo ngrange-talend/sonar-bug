@@ -5,3 +5,5 @@
 
 ## Sonarqube report
 ![sonarqube-local](./img/sonar-report.png)
+
+[Sonarqube report](http://localhost:9000/project/issues?resolved=false&types=CODE_SMELL&inNewCodePeriod=true&id=sonar-bug)
