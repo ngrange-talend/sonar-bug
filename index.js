@@ -6,3 +6,5 @@ console.log(NEW_1);
 
 function foo() {
 }
+
+global.toto=9;
